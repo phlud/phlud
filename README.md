@@ -1,6 +1,6 @@
-- 👋 Hi, I’m phlud
-- 👀 I’m interested in nostalgia...
-- 🌱 I’m currently learning how to write a holo-novel...
+<img src="https://falsedoor.com/8shadows/img/etc/crash.gif" />
+
+
 <!---
 - 📫 How to reach me ...
 
