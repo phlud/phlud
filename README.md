@@ -1,4 +1,4 @@
-<img src="https://falsedoor.com/8shadows/img/etc/crash.gif" />
+<img src="https://falsedoor.com/8shadows/img/etc/crash.gif" loop=infinite />
 
 
 <!---
