@@ -1,5 +1,6 @@
-<img src="https://falsedoor.com/8shadows/img/etc/crash.gif" loop=infinite />
-
+<img src="https://falsedoor.com/8shadows/img/etc/crash.gif" />
+<a href="http://www.catb.org/hacker-emblem/">
+<img src="wpimages/hacker.png" alt="hacker emblem"></a>
 
 <!---
 - 📫 How to reach me ...
